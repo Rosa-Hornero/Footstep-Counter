@@ -110,4 +110,3 @@ If you have any questions or suggestions about this project, feel free to reach 
 
 - Email: [rosa.hornero1@gmail.com](rosa.hornero1@gmail.com)
 - LinkedIn: [Rosa Hornero](https://www.linkedin.com/in/rosa-hornero/)
-- Twitter: [@hornero_rosa](https://x.com/hornero_rosa)
