@@ -23,7 +23,7 @@ The implementation is designed to be:
   - **`step_counter_analysis.ipynb/`**: Exploratory analysis and signal visualization.
 - **`count_steps.py  /`**: Step counting function (core logic).
 - **`main.py`**: Example usage with UCI HAR data.
-- static: Image of an example output
+- `static`: Image of an example output
 - `requirements.txt`: Project dependencies.
 - `README.md`: Project documentation.
 - `LICENSE`: MIT License
