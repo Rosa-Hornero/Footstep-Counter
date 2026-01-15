@@ -110,3 +110,7 @@ If you have any questions or suggestions about this project, feel free to reach 
 
 - Email: [rosa.hornero1@gmail.com](rosa.hornero1@gmail.com)
 - LinkedIn: [Rosa Hornero](https://www.linkedin.com/in/rosa-hornero/)
+
+## License
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute it as long as this license is respected.
